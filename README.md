@@ -9,6 +9,7 @@ The project includes the following steps:
 The dataset was loaded, and necessary libraries such as Matplotlib and Seaborn were imported to perform the data visualization tasks.
 Histogram for CO2 Emissions Distribution
 
+### visualisations 
 A histogram was created to visualize the distribution of CO2 emissions across the dataset, providing insights into emission patterns.
 Histogram for Fuel Distribution
 
@@ -19,12 +20,13 @@ A histogram was created to display the distribution of vehicle makes in the data
 Heatmap of Correlation Matrix
 
 A heatmap was generated to visualize the correlation matrix, helping identify relationships between various variables, such as fuel efficiency and CO2 emissions.
-Libraries Used
+### Libraries Used
 Matplotlib: For creating static, animated, and interactive visualizations.
 Seaborn: For statistical data visualization, including heatmaps and advanced plotting techniques.
 Pandas: For data manipulation and analysis.
 numpy : for mathematical calculation.
-Setup Instructions
+
+### Setup Instructions
 Clone the repository:
 
 bash
@@ -32,7 +34,7 @@ Copy code
 git clone <repository_url>
 Install the required dependencies:
 
-Run the analysis:
+### Run the analysis:
 
 After setting up, you can execute the Python script to generate the histograms and heatmap for the dataset.
 Example Visualizations
@@ -44,5 +46,5 @@ Vehicle Makes Distribution (Histogram): A histogram visualizing the distribution
 
 Correlation Matrix Heatmap: A heatmap showing the correlation between different variables in the dataset.
 
-Conclusion
+### Conclusion
 This project provides a detailed analysis of transport-related data, which could inform policy decisions on vehicle emissions, fuel efficiency, and infrastructure development. The visualizations generated help identify trends and relationships within the data, offering insights into the environmental impact of transportation systems.
